@@ -8,7 +8,7 @@ images:
   newTag: 4.0.1
 - name: spring-petclinic
   newName: ghcr.io/lamia1997/spring-petclinic
-  newTag: 7377204965791d95fba64ef481a3b7f616a82bec
+  newTag: fa95ebacbcba33f72bbdcf4bab76aea23c01c3ad
 
 # Référencer la baseline (réutiliser tous les manifests de base/)
 resources:
